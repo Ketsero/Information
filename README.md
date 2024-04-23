@@ -26,7 +26,7 @@
 <p style="color:rgb(150, 153, 0)">+10 до прихованості</p>
 <p style="color:rgb(150, 153, 0)">+45 до інтелекту</p> 
 <p style="color:rgb(150, 153, 0)">Якщо використовується з <b style="color:Blue">"Кільцем Правителя"</b> то відкривається навичка<b style="color:Blue">"Рука Правителя"</b></p>
-<p></p>
+<p><a style="color:rgb(150, 153, 0)" href="https://ketsero.github.io/Spell/">Детальніше про навички</a></p>
 <p></p>
 <p></p>
 <p style="color:red; text-align:center"><b>"Ніж Вогняного Дракона"</b></p>
